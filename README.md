@@ -6,7 +6,7 @@ How does it work?
 First, you need to clone the repository:
 `git clone https://github.com/NEDOSTUPN0/Pepeland-Emoji-Converter`
 
-After that, you download the original Pepeland resourcepack from the official site, in it you go to the path `assets/minecraft/font` and copy the default.json file into the folder with the script. `https://pepeland.net/wiki/game/resourcepack`
+After that, you download the original Pepeland resourcepack from the official site, in it you go to the path `assets/minecraft/font` and copy the default.json file into the folder with the script. https://pepeland.net/wiki/game/resourcepack
 
 Now you can just run the script, and in the same folder will appear the file `emojitype.json`, which should be copied to the folder .minecraft/config/
 and then copy the resourcepack to the `.minecraft/resourcepacks/` folder.
