@@ -11,6 +11,6 @@ After that, you download the original Pepeland resourcepack from the official si
 Now you can just run the script, and in the same folder will appear the file "emojitype.json", which should be copied to the folder .minecraft/config/
 and then copy the resourcepack to the .minecraft/resourcepacks/ folder.
 
-The "EmojiType" mod is required for the config to work. And also activate the resourcepack itself in the settings minecraft
+The "EmojiType" mod is required for the config to work. And also activate the resourcepack itself in the minecraft settings 
 
 You can also download a ready-made config that works with the latest version of the resourcepack (1.7.0).
