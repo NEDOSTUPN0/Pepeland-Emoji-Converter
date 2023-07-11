@@ -14,3 +14,5 @@ and then copy the resourcepack to the .minecraft/resourcepacks/ folder.
 The "EmojiType" mod is required for the config to work. And also activate the resourcepack itself in the minecraft settings 
 
 You can also download a ready-made config that works with the latest version of the resourcepack (1.7.0).
+
+After all the work done, you can go into the game and write in the chat :EtoKomu: or any emoji from the resourcepack
